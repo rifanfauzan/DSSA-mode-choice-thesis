@@ -5,18 +5,15 @@ Mode choice behaviour of dynamic street space allocation: A stated-preference ex
 
 ## Overview
 
-
 ## Project structure
-
 
 ## Requirements
 
 ## Quick start
 
-
 ## Configuration
 
-# How it works (high level)
+## How it works (high level)
 
 ## Output
 
